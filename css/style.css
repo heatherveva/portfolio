@@ -1,0 +1,37 @@
+body {
+  background-color: #eeaeca;
+}
+
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-family: "Lato", sans-serif;
+  font-weight: bolder;
+  color: white;
+  text-shadow: 2px 2px lightgrey;
+}
+
+h2 {
+  font-family: "Bebas Neue", cursive;
+  font-family: "Lato", sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  color: white;
+  text-shadow: 2px 2px lightgrey;
+}
+
+header {
+  background: rgb(238, 174, 202);
+  background: linear-gradient(
+    90deg,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+}
+
+.navbar {
+  background-color: #c1b5da;
+}
+
+.navbarText {
+  color: white;
+}
