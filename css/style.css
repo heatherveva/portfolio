@@ -22,6 +22,10 @@ body {
   background-color: #e2d1f9;
 }
 
+.btn:hover {
+  color: #e2d1f9;
+}
+
 h1 {
   font-family: "Thasadith", sans-serif;
   font-size: 500%;
@@ -44,12 +48,31 @@ h2 {
   background-color: #317773;
 }
 
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
 .linkcolor {
   color: #317773;
 }
 
 .margin {
   margin-top: 3rem;
+}
+
+.marginlandr {
+  margin-right: 1rem;
+  margin-left: 1rem;
 }
 
 .ta-c {
