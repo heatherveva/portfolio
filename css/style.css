@@ -26,6 +26,7 @@ h1 {
   font-family: "Thasadith", sans-serif;
   font-size: 500%;
   color: #317773;
+  font-weight: bold;
 }
 
 h2 {
@@ -38,8 +39,17 @@ h2 {
   background-color: #e2d1f9;
 }
 
+.btncolor {
+  color: white;
+  background-color: #317773;
+}
+
 .linkcolor {
   color: #317773;
+}
+
+.margin {
+  margin-top: 3rem;
 }
 
 .ta-c {
