@@ -1,51 +1,61 @@
 a:link {
-  color: #317773;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
   text-decoration-style: dotted;
 }
 
 a:hover {
-  color: #317773;
+  color: #6eb589;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #317773;
+  color: #6eb589;
   background-color: transparent;
   text-decoration: underline;
   text-decoration-style: dotted;
 }
 
 body {
-  background-color: #e2d1f9;
+  background-color: #d3b8a5;
 }
 
 .btn:hover {
-  color: #e2d1f9;
+  color: #d3b8a5;
 }
 
 h1 {
   font-family: "Thasadith", sans-serif;
   font-size: 500%;
-  color: #317773;
+  color: white;
   font-weight: bold;
 }
 
 h2 {
   font-family: "Thasadith", sans-serif;
   font-size: 200%;
-  color: #317773;
+  color: white;
 }
 
 .bgcolor {
-  background-color: #e2d1f9;
+  background-color: #d3b8a5;
+}
+
+.biocard {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+
+.cardcolor {
+  background-color: #e4a0ad;
 }
 
 .btncolor {
   color: white;
-  background-color: #317773;
+  background-color: #6eb589;
 }
 
 .center-block {
@@ -63,7 +73,7 @@ h2 {
 }
 
 .linkcolor {
-  color: #317773;
+  color: white;
 }
 
 .margin {
